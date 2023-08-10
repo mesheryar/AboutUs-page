@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: rgb(39, 39, 39);
+    height: 300px;
+    text-align: center;
+    margin-top: 20px;
+}
+.main h1{
+    font-weight: 900;
+    font-size:55px;
+    color: white;
+    padding-top: 80px;
+}
+.main p{
+    font-weight: 500;
+    font-size: 20px;
+    color: rgb(2, 2, 53);
+    margin-top: 10px;
+}
+.home{
+    color: white;
+}
+.home:hover{
+    color:rgb(2, 2, 53) ;   
+}
+.main p a{
+    text-decoration: none;
+}
+.sec-2 {
+    margin-top: 80px;
+    text-align: center;
+}
+.sec-2 h1{
+    font-size: 60px;
+    color: rgb(34, 34, 34);
+}
+.sec-2 p{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    color: rgb(97, 96, 96);
+}
+.camera{
+    margin-top: 50px;
+}
+.camera img{
+height: 450px;
+width: 90%;
+margin-left: 70px;
+}
+.text{
+    margin-left: 80px;
+    margin-top: 80px;
+   
+}
+.text p{
+    color:rgb(97, 96, 96) ;
+    margin-top: 20px;
+    line-height: 30px;
+}
+.sec-3{
+    height: 330px;
+    background-color:rgb(2, 2, 37)  ;
+    display: flex;
+    margin-top: 50px;
+}
+.icon{
+    font-size: 40px;
+    color: white;
+   display: flex;
+   padding-top: 130px;
+   margin-left: 60px;
+}
+.icon h6{
+font-size: 20px;
+font-weight: 300;
+margin-left: 10px;
+}
+
+.text h3{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+.text h6{
+    font-size: 18px;
+    font-weight: 300;
+    color: white;
+    margin-top: 20px;
+    line-height: 30px;
+}
+.text button{
+    height: 45px;
+    width: 30%;
+    margin-top: 20px;
+    background: transparent;
+    color: white;
+    border-color: white;
+    margin-left: 200px;
+}
+.last{
+    background-color: rgb(212, 211, 211);
+    height: 300px;
+}
+.last h4{
+    padding-top: 85px;
+}
+
+.icons{
+    font-size: 30px;
+}
+.last-2{
+    background-color: gray;
+    text-align: center;
+    color: white;
+    height: 50px;
+
+}
+.last-2 h6{
+    padding-top: 12px;
+    font-weight: 400;
+}
+/* /////////////////////////////////////////TWO CARDS///////////////////// */
+.div-1{
+    background-image: url("https://freshnrebel.com/media/03/0c/29/1668516003/8720249804680_1.jpg");
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgb(177, 174, 174);
+    background-size: cover;
+}
+.div-2{
+    background-image: url("https://images.macrumors.com/t/Xli73M4hhPje3C5CeyhH1Z_c2Ro=/800x0/smart/article-new/2018/02/airpods-3.jpg?lossy");
+    height: 300px;
+    background-repeat: no-repeat;
+}
+.div-1 h6{
+    padding-top: 60px;
+}
+.div-2 h6{
+    padding-top: 40px;
+}
+.shopnow{
+    height: 40px;
+    width: 120px;
+    border-radius: 30px;
+    color: white;
+    background-color: rgb(138, 218, 18);
+    border: none;
+    margin-top: 10px;
+}
